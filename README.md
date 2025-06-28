@@ -62,15 +62,3 @@ A powerful **specialized AI agent** built for **personal finance management**:
 
 > 💬 _“Talk to your finances like you talk to a friend — and let AI do the rest.”_
 
----
-
-## 📸 Optional Enhancements
-
-If your platform supports visuals (e.g., Notion, GitHub README, or documentation site), consider adding:
-
-- 🖼️ A banner or hero image at the top  
-- 📷 Screenshots or GIFs showing interaction  
-- 🧩 SVG or icon set for each section  
-
----
-
